@@ -8,6 +8,8 @@ namespace Hello
         {
             Console.WriteLine("Schweinslungenbraten");
 			Console.WriteLine("Pfefferkörner");
+			Console.WriteLine("Speck");
+            Console.WriteLine("Sahne");
 			Console.WriteLine("Kartoffeln");
 			Console.WriteLine("Fisolen");
         }
