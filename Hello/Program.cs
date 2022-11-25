@@ -6,7 +6,10 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Schweinslungenbraten");
+			Console.WriteLine("Pfefferkörner");
+			Console.WriteLine("Kartoffeln");
+			Console.WriteLine("Fisolen");
         }
     }
 }
